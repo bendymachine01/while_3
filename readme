@@ -1,0 +1,14 @@
+# Juego de Adivinar el Número
+
+## analisis
+Este es un juego en el que el usuario intenta adivinar un número secreto generado aleatoriamente entre 1 y 100. Después de cada intento, el programa proporciona pistas indicando si el número es mayor o menor.
+
+## prtocessing
+1. El programa genera un número aleatorio entre 1 y 100.
+2. El usuario ingresa un número dentro de ese rango.
+3. Si el número ingresado es incorrecto, el programa indicará si el número secreto es mayor o menor.
+4. El juego continúa hasta que el usuario adivine el número.
+5. Al final, se muestra la cantidad de intentos realizados.
+
+## Diseño
+![Diagrama de Flujo](dagrama.png)
