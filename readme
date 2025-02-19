@@ -10,5 +10,6 @@ Este es un juego en el que el usuario intenta adivinar un número secreto genera
 4. El juego continúa hasta que el usuario adivine el número.
 5. Al final, se muestra la cantidad de intentos realizados.
 
-## Diseño
-![Diagrama de Flujo](diagrama.png)
+
+### Diseño
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
